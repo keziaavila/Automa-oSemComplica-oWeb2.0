@@ -1,4 +1,4 @@
-package br.com.keziavilamoreira.Media;
+package br.com.chronosacademy.automacaoweb.keziavilamoreira.Media;
 
 public class Media {
 
